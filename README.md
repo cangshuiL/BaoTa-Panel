@@ -32,7 +32,8 @@ wget https://github.com/cangshuiL/BaoTa-Panel/archive/master.zip && unzip master
 wget https://github.com/cangshuiL/BaoTa-Panel/archive/master.zip && unzip master.zip && cd BaoTa-Panel-master && bash install-ubuntu.sh
 ```
 
-#面板命令
+# 面板命令
+
 停止
 
 /etc/init.d/bt stop
